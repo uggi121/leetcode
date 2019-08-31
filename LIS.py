@@ -1,3 +1,9 @@
+"""
+Longest increasing subsequence- Dynamic Programming.
+
+Todo : Clean and format code.
+"""
+
 class Solution(object):
     def lengthOfLIS(self, nums):
         """
